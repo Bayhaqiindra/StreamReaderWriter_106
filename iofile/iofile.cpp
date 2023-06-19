@@ -8,3 +8,4 @@ int main() {
 
 	//membuka file dalam mode menulis.
 	ofstream outfile;
+
